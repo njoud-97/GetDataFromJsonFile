@@ -1,0 +1,100 @@
+{
+    "employees": [
+        {},
+
+
+       {
+            "id": 1,
+            "name": "ahmad",
+            "sal": 1500,
+            "permission": "True",
+            "dept_name": "administration"
+        },
+        {
+            "id": 2,
+            "name": "hamza",
+            "sal": 1300,
+            "permission": "True",
+            "dept_name": "administration"
+        },
+        {
+            "id": 3,
+            "name": "anas",
+            "sal": 1300,
+            "permission": "True",
+            "dept_name": "administration"
+        },
+        {
+            "id": 4,
+            "name": "azeez",
+            "sal": 1200,
+            "permission": "True",
+            "dept_name": "administration"
+
+        },
+        {
+            "id": 5,
+            "name": "ali",
+            "sal": 1200,
+            "permission": "True",
+            "dept_name": "administration"
+        },
+        {
+            "id": 6,
+            "name": "mohannad",
+            "sal": 500,
+            "permission": "False",
+            "dept_name": "sales"
+        },
+        {
+            "id": 7,
+            "name": "abdullah",
+            "sal": 500,
+            "permission": "False",
+            "dept_name": "sales"
+        },
+        {
+            "id": 8,
+            "name": "moataz",
+            "sal": 500,
+            "permission": "False",
+            "dept_name": "sales"
+        },
+        {
+            "id": 9,
+            "name": "kenan",
+            "sal": 500,
+            "permission": "False",
+            "dept_name": "marketing"
+        },
+        {
+            "id": 10,
+            "name": "ibrahem",
+            "sal": 500,
+            "permission": "False",
+            "dept_name": "marketing"
+        }
+
+    ],
+    "departments":[
+
+            {
+            "dept_id": 1001,
+            "dept_name": "administration"
+            
+        },
+
+{
+            "dept_id": 1002,
+            "dept_name": "sales"
+            
+        },
+
+{
+            "id": 1003,
+            "dept_name": "marketing"
+            
+        }
+
+                  ]
+}
